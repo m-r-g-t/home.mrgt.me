@@ -10,6 +10,9 @@
   url: /about/
   external: false
 
+- title: resume
+  url: /resume.pdf
+  external: false
 
 # Example:
 # - title: github

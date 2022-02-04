@@ -4,24 +4,20 @@ description: >- # site description
   Personal website portfolio and blog.
 lang: en-GB # language
 timezone: Europe/London # timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+repo: https://github.com/pensive.coding/home.mrgt.me # site repo [optional]
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Marco Germanier # author name
   bio: >- # tell to the world
-    Aspiring economist, lover of all crypto, -website in progress-
-  username: rxx.lyx # general username
+    Recent Economics and Computing  major. Aspiring economist. Interested in financial markets, and everything crypto.
   github: pensive.coding # github username
-  twitter: 0x_rxx # twitter username
   email: marco@mrgt.me # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
-  discord: 'rxx#8344' # discord
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://home.mrgt.me" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -58,7 +54,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 3
+number_of_posts: 5
 
 # Build settings
 # theme: klise

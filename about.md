@@ -1,18 +1,22 @@
 ---
-title: Colophon
+title: Marco Germanier
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Welcome
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm Marco, a recent Economics with Computing graduate. Originally from Argentina, and now living in the UK. I do know basic French too, *mais j'amerais en apprendre plus de ça!*
 
-If you have a question about him or else, just send a letter to him.
+Some of my ongoing projects: 
+- Crypto, though my interests in the space particular aren't monetary. I've recently begun a Solidity course, for which I may in future.
+- Economics. I'm creating a podcast with friends: <a href="https://www.economics.wtf/" target="_blank" rel="noopener"> WTF Economics!? </a>
+- Data science and econometrics. I will soon find some projects in this space - for now, I am learning SQL, numpy, and some econometric techniques.
+- Upcycling old tech. I reject succumbing to planned obsolescence, so repair and try to give a new life to older technology. Thus, I prefer using FOSS and GNULinux wherever viable.
+- Photography and traveling. I enjoy capturing different cultures and places. I tend to keep them to myself. <a href="https://www.instagram.com/pensive.nomad/" target="_blank" rel="noopener">Here are some of my landscapes </a>.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**My links**
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- <a href = "mailto: marco@mrgt.me"> Email </a>
+- <a href="https://github.com/pensivecoding" target="_blank" rel="noopener"> Github </a>
+- <a href="https://linkedin.com/in/mrgt" target="_blank" rel="noopener"> Linkedin </a>
