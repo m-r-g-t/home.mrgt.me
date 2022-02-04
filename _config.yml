@@ -11,7 +11,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Marco Germanier # author name
   bio: >- # tell to the world
-    Recent Economics and Computing  major. Aspiring economist. Interested in financial markets, and everything crypto.
+    Economics and Computing graduate. Aspiring economist. Interested in financial markets, and everything crypto.
   github: pensive.coding # github username
   email: marco@mrgt.me # email adress
   avatar: /assets/img/dino.jpg # change with your own avatar
