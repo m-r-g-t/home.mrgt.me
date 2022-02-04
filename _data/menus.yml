@@ -11,8 +11,8 @@
   external: false
 
 - title: resume
-  url: https://github.com/pensivecoding/home.mrgt.me/raw/master/resume.pdf
-  external: true
+  url: /resume.pdf
+  external: false
 
 # Example:
 # - title: github
